@@ -8,6 +8,7 @@
 <title>Wonders</title>
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
 <link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script> 
 </head>
 
 <body>
@@ -22,8 +23,13 @@
         <li><a href="blog.html">Blog</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="contact.html">Contact</a></li>
-        <li><a href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
+        <li id="lg-bag"><a href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
+        <a href="#" id="close"><i class="far fa-times"></i></a>
       </ul>
+    </div>
+    <div id="mobile">
+      <a href="cart.html"><i class="far fa-shopping-bag"></i></a>
+      <i id="bar" class="fas fa-outdent"></i>
     </div>
   </section>
 
@@ -226,7 +232,7 @@
     </div>
     <div class="col">
       <h4>About</h4>
-      <a href="#">Abut Us</a>
+      <a href="about.html">Abut Us</a>
       <a href="#">Delivery Information</a>
       <a href="#">Privacy policy</a>
       <a href="#">Terms & Conditions </a>
