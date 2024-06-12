@@ -9,4 +9,4 @@ The goal of this project is to create a user-friendly, secure, and efficient onl
 ## Team Members and Roles
 
 - **Zahra**: Project Manager and Lead Developer
-  - **Roles**: Overseeing the project development, ensuring all elements come together smoothly, and leading the development team with a focus on both front-end and back-end functionalities.
+  - **Roles**: Overseeing the project development, ensuring all elements come together smoothly,with a focus on both front-end and back-end functionalities.
