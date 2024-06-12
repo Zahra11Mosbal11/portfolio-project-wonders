@@ -18,6 +18,9 @@ My sister and I decided to start an online shop because the cost of rent was too
 ## Tech Stack
 
 • We built our site using JavaScript, HTML, CSS, SQL, and NoSQL. 
+
 • Key platforms include GitHub and Netlify for deployment.
+
 • Leveraged frameworks like Node.js and Visual Studio Code.
+
 • A robust tech stack underpins our online shop's functionality.
